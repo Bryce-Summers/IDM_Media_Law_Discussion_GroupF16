@@ -2,7 +2,7 @@
 A repository  dedicated to collaborative learning between the IDM Fall 2016 students taking Media Law
 
 # Website
-[https://bryce-summers.github.io/IDM_Media_Law_Discussion_GroupF16/](Website URL)
+[Website URL](https://bryce-summers.github.io/IDM_Media_Law_Discussion_GroupF16/)
 This repository is geared towards maintaining the website, but the issue, pull request, and wiki features of github may be useful as well.
 
 # Information
