@@ -1,5 +1,5 @@
 # IDM_Media_Law_Discussion_GroupF16
-A repository  dedicated to collaborative learning between the IDM Fall 2016 students taking Media Law
+A repository  dedicated to collaborative learning between the IDM Fall 2016 students taking Media Law. This initiative was created by Bryce Summers and is in no way sanctioned, endorsed, or affiliated with the official course.
 
 # Website
 [Website URL](https://bryce-summers.github.io/IDM_Media_Law_Discussion_GroupF16/)
